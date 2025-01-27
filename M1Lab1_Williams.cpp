@@ -26,6 +26,7 @@ int main()
    
 
     //Print answer
-    cout << "The total answer " << num_apples<<" Apples is $" << total; << endl;
+    cout << "The total answer " << num_apples<<" Apples is $" << total << endl;
+    cout << endl;
     return 0;
 }
