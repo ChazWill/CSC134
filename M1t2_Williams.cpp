@@ -1,11 +1,4 @@
-/*starting coding with c++
-module 1
-Chazidy Williams
-1/27/25
-*/
-
-# include <iosstream>
-
+#include <iostream>
 using namespace std;
 
 int main()
@@ -17,6 +10,6 @@ int main()
     cout << "My favorite food is nachos!! " << endl;
     cout << endl;
     
-    return 0
+    return 0;
 
 }
