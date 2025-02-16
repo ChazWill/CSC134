@@ -1,3 +1,10 @@
+/*
+CSC 134
+M2HW1 - Gold
+Chazidy Williams
+2-12-25
+*/
+
 #include <iostream>
 #include <string>
 

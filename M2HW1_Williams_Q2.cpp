@@ -1,7 +1,9 @@
-// This program is used by General Crates, Inc. to calculate
-// the volume, cost, customer charge, and profit of a crate
-// of any size. It calculates this data from user input, which
-// consists of the dimensions of the crate.
+
+//CSC 134
+//M2HW1 - Gold
+//Chazidy Williams
+//2-12-25
+
 
 #include <iostream>
 #include <iomanip>
