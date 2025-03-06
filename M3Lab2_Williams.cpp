@@ -14,32 +14,32 @@ char anotherGrade;
 
 do 
 {
-cout << "Enter a numerical grade (a number)" << endl;
+cout << "Enter Your numerical grade: " << endl;
 cin >> numberGrade;
 
 if (numberGrade >= 90)
 {
-    cout << "Grade A" << endl;
+    cout << "Your letter grade is: A" << endl;
     cout << endl;
 }
 else if (numberGrade >= 80)
 {
-    cout << "Grade B" << endl;
+    cout << "Your letter grade is: B" << endl;
     cout << endl;
 }
 else if (numberGrade >= 70)
 {
-    cout << "Grade C" << endl;
+    cout << "Your letter grade is: C" << endl;
     cout << endl;
 }
 else if  (numberGrade >= 60)
 {
-    cout << "Grade D" << endl;
+    cout << "Your letter grade is: D" << endl;
     cout << endl;
 }
 else 
 {
-    cout << "Grade F" << endl;
+    cout << "Your letter grade is: F" << endl;
     cout << endl;
 }
 
