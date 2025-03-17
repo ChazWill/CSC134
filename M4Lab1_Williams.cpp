@@ -30,10 +30,21 @@ int main(){
     //print square
     // TODO: ask the user
     int width, height;
+    bool good_values = false;
+    do{
     cout << "Whats the width: ";
     cin >> width;
     cout << "Whats the height: ";
     cin >> height;
+    if (width > 0 && height > 0)
+    {
+        good_values = true;
+    }
+    else
+    {
+        cout << "Width and Height must be >0" << endl;
+    }
+    } while (good_values ==  false);
 
     cout << "Square of " << width << " by " << height << endl;
     for(int v=0; v<height; v++)
