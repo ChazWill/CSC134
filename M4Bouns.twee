@@ -1,0 +1,212 @@
+:: StoryTitle
+Time Travel
+
+
+:: StoryData
+{
+  "ifid": "D3EDDEE6-3296-48E4-8BE9-07C4E8AC8DFF",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+
+:: Accept Crystal {"position":"25,1000","size":"100,100"}
+\:: Accept Crystal
+The crystal fills your mind with cosmic knowledge. You become a galactic ambassador.
+[[Return to Start|Start]]
+
+
+
+:: Board Ship {"position":"512.5,850","size":"100,100"}
+\:: Board Ship
+You enter the dark spaceship. The lights flicker, and you hear strange noises. Suddenly, a robot guard activates!
+Do you:
+[[Fight the robot|Fight Robot]]
+[[Try to disable it|Disable Robot]]
+
+
+:: Build Pyramids {"position":"950,600","size":"100,100"}
+\:: Build Pyramids
+You help lift massive stones with the workers. The pharaoh’s advisor notices your strength and offers you a place at the palace.
+Do you:
+[[Accept the offer|Palace]]
+[[Stay with the workers|Stay Workers]]
+
+
+:: Communicate with Alien {"position":"300,725","size":"100,100"}
+\:: Communicate with Alien
+The alien greets you peacefully and offers you a glowing crystal. It seems to contain ancient knowledge.
+[[Accept the Crystal|Accept Crystal]]
+[[Refuse and walk away|Leave]]
+
+
+:: Disable Robot {"position":"450,1100","size":"100,100"}
+\:: Disable Robot
+You carefully disable the robot, and it powers down. You find a hidden data core containing advanced technology!
+[[Return to Start|Start]]
+
+
+:: Escape {"position":"1300,850","size":"100,100"}
+\:: Escape
+You barely make it out alive.
+[[Return to Start|Start]]
+
+
+:: Explore More {"position":"800,900","size":"100,100"}
+\:: Explore More
+You meet a rogue pilot who offers you a ride to a distant star system.
+[[Accept the ride|Ride]]
+[[Decline and stay on the station|Stay]]
+
+
+:: Explore Planet {"position":"350,600","size":"100,100"}
+\:: Explore Planet
+You find yourself on a strange planet covered in bioluminescent plants. Suddenly, an alien approaches!\
+Do you:
+[[Try to communicate|Communicate with Alien]]
+[[Run away|Run from Alien]]
+
+
+:: Explore Tomb {"position":"1300,600","size":"100,100"}
+\:: Explore Tomb
+You sneak into a dark tomb, lit only by your torch. You find a hidden chamber with treasure!
+Do you:
+[[Take the treasure|Take Treasure]]
+[[Leave it and report your discovery|Report Discovery]]
+
+
+:: Fate {"position":"1425,850","size":"100,100"}
+\:: Fate
+You accept your fate and become a part of the tomb’s legend.
+[[Return to Start|Start]]
+
+
+:: Fight Robot {"position":"350,1125","size":"100,100"}
+\:: Fight Robot
+You manage to destroy the robot but damage the ship’s core in the process. The ship starts to collapse!
+[[Escape|Escape]]
+
+
+:: Future {"position":"375,475","size":"100,100"}
+
+\:: Future
+You chose the Future!
+You landed in 2150, in a world where humanity has colonized space.
+[[Back to Start|Start]]
+
+
+Do you want to explore a nearby planet or visit a space station?
+[[Explore Planet|Explore Planet]]
+[[Visit Space Station|Space Station]]
+
+
+
+
+:: Ignore Ship {"position":"625,850","size":"100,100"}
+\:: Ignore Ship
+You continue the mission and discover a new habitable planet! You help establish a colony there and become a legend.
+[[Return to Start|Start]]
+
+
+:: Join Crew {"position":"700,725","size":"100,100"}
+You join a crew of space explorers on a mission to a distant star system. After weeks of travel, you encounter a poor spaceship drifting in the void. 
+ 
+ Do you:
+[[Board the spaceship|Board Ship]]
+[[Ignore it and continue the mission|Ignore Ship]]
+
+
+:: Leave {"position":"225,975","size":"100,100"}
+\:: Leave
+You walk away, but the alien seems sad. Perhaps you missed a great opportunity.
+[[Return to Start|Start]]
+
+
+:: Palace {"position":"825,800","size":"100,100"}
+\:: Palace
+You live a life of luxury but feel disconnected from the people.
+[[Return to Start|Start]]
+
+
+
+:: Past {"position":"900,425","size":"100,100"}
+\:: Past
+You chose the Past!
+You landed in Ancient Egypt, during the construction of the pyramids.
+
+Do you want to help build the pyramids or explore a tomb?
+[[Help Build Pyramids|Build Pyramids]]
+[[Explore a Tomb|Explore Tomb]]
+
+
+:: Report Discovery {"position":"1375,725","size":"100,100"}
+\:: Report Discovery
+The pharaoh rewards you with gold and land for your honesty.
+[[Return to Start|Start]]
+
+
+:: Ride {"position":"600,1175","size":"100,100"}
+\:: Ride
+The pilot takes you on an epic adventure, discovering new worlds.
+[[Return to Start|Start]]
+
+
+
+:: Run from Alien {"position":"412.5,725","size":"100,100"}
+\:: Run from Alien
+You try to run, but the alien teleports in front of you and laughs. It was testing your courage. You have gained its respect!
+[[Return to Start|Start]]
+
+
+:: Space Station {"position":"475,600","size":"100,100"}
+\:: Space Station
+You arrive at a bustling space station filled with travelers from across the galaxy.\
+Do you:
+[[Talk to a trader|Trader]]
+[[Join a crew on a mission|Join Crew]]
+
+
+:: Start {"position":"400,225","size":"100,100"}
+\:: Start
+Do you want to travel to the past or future?
+[[Travel to the Future|Future]]
+[[Travel to the Past|Past]]
+
+
+
+
+
+:: Stay {"position":"1000,1125","size":"100,100"}
+\:: Stay
+You enjoy the station life but wonder what adventures you missed.
+[[Return to Start|Start]]
+
+
+:: Stay Workers {"position":"1075,850","size":"100,100"}
+\:: Stay Workers
+You make lifelong friends and become a respected figure among the workers.
+[[Return to Start|Start]]
+
+
+
+:: Take Treasure {"position":"1237.5,725","size":"100,100"}
+\:: Take Treasure
+A curse falls upon you! The tomb starts collapsing!
+[[Try to escape|Escape]]
+[[Accept your fate|Fate]]
+
+
+:: Trade {"position":"425,975","size":"100,100"}
+\:: Trade
+The device allows you to teleport anywhere in the galaxy! You become a legendary explorer.
+[[Return to Start|Start]]
+
+
+
+:: Trader {"position":"537.5,725","size":"100,100"}
+\:: Trader
+The trader offers you a mysterious device in exchange for a rare mineral.
+[[Accept the trade|Trade]]
+[[Refuse and explore more|Explore More]]
